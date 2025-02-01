@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python Machine Learning Data Engineering**
 
-- 📫 How to reach me **sroy.dgp2014@gmial.com**
+- 📫 How to reach me **sroy.dgp2014@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wBjNG8oHkHHBzhcy2hwlHx7Q2a6n7FuA/view?usp=drive_link](https://drive.google.com/file/d/1wBjNG8oHkHHBzhcy2hwlHx7Q2a6n7FuA/view?usp=drive_link)
 
